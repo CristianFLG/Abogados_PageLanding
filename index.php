@@ -49,10 +49,10 @@
     <div class="main-content-wrapper section-padding-100">
         <div class="container">
             <div class="row justify-content-center">
-                 <?php include('index_servicios.php'); ?>
+                 <?php include('servicios.php'); ?>
                 <div class="col-12 col-md-8 col-lg-4">
                     <div class="post-sidebar-area wow fadeInUpBig" data-wow-delay="0.2s">
-                       <?php include('index_informacion.php') ?>
+                       <?php include('informacion.php') ?>
                         <div class="sidebar-widget-area">
                             <h5 class="title">CONTÁCTATE CON NOSOTROS</h5>
                             <div class="widget-content">
