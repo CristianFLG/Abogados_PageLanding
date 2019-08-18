@@ -1,1 +1,1 @@
-# Abogados_PageLanding
+<?php header('location:index.php') ?>
